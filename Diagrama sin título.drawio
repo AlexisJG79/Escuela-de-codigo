@@ -5,10 +5,58 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4ZPQLaFZJAPQ746rarUw-6" value="TABLA DE HECHOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="180" width="130" height="20" as="geometry" />
+          <mxGeometry x="340" y="260" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4ZPQLaFZJAPQ746rarUw-7" value="ID_Practica&lt;div&gt;Taller_ID&lt;/div&gt;&lt;div&gt;No. Practica&lt;/div&gt;&lt;div&gt;Nombre_ID&lt;/div&gt;&lt;div&gt;Folio_ID&lt;/div&gt;&lt;div&gt;Fecha_ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="130" height="120" as="geometry" />
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-7" value="ID_Practica&lt;div&gt;Taller_ID&lt;/div&gt;&lt;div&gt;No. Practica_ID&lt;/div&gt;&lt;div&gt;Nombre_ID&lt;/div&gt;&lt;div&gt;Folio&lt;/div&gt;&lt;div&gt;Fecha_ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="260" as="sourcePoint" />
+            <mxPoint x="290" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="260" as="sourcePoint" />
+            <mxPoint x="530" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="400" as="sourcePoint" />
+            <mxPoint x="520" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.023;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4ZPQLaFZJAPQ746rarUw-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="400" as="sourcePoint" />
+            <mxPoint x="290" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-12" value="&lt;br&gt;&lt;div&gt;Nombre_ID&lt;/div&gt;&lt;div&gt;Nombre&lt;/div&gt;&lt;div&gt;Apellido_Materno&lt;/div&gt;&lt;div&gt;Apellido_Paterno&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-13" value="&lt;br&gt;&lt;div&gt;No. Practica_ID&lt;/div&gt;&lt;div&gt;Nombre_Practica&lt;/div&gt;&lt;div&gt;No_Practica&lt;/div&gt;&lt;div&gt;Calificacion&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="410" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-14" value="&lt;br&gt;&lt;div&gt;Fecha_ID&lt;/div&gt;&lt;div&gt;Dia&lt;/div&gt;&lt;div&gt;Mes&lt;/div&gt;&lt;div&gt;Año&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="410" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-15" value="&lt;br&gt;&lt;div&gt;Taller_ID&lt;/div&gt;&lt;div&gt;Nombre_Taller&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-16" value="TABLA DE DIMENSIONES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-17" value="TABLA DE DIMENSIONES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-18" value="TABLA DE DIMENSIONES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZPQLaFZJAPQ746rarUw-19" value="TABLA DE DIMENSIONES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
